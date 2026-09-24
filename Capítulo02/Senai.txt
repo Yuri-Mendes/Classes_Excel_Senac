@@ -1,7 +1,7 @@
 *Senai*
 
 Fundamentos de Inteligência Artificial Generativa - Google Cloud
-Santo Amaro Rua Amador Bueno, 504 - 8 vagas
+Santo Amaro Rua Amador Bueno, 504 - 5 vagas
 Carga horária: 20 horas
 Início
 10/10/2026
@@ -13,7 +13,7 @@ aos Sábados
 
 
 Fundamentos de Inteligência Artificial e Análise de Dados com Python
-Carga horária: 40 horas - 5 vagas
+Carga horária: 40 horas - 6 vagas
 São Paulo - Brás
 Rua Monsenhor Andrade, 298
 aos Sábados
@@ -26,16 +26,19 @@ Fim
 12/12/2026
 
 
-Desenvolvimento de Aplicações com IA Generativa utilizando Google Antigravity
-aos Sábados - 16 vagas
+Excel Avançado II: ferramentas e base de dados - SENAC
+Barra Funda - Francisco Matarazzo
+14 A 28/10/2026
+SEGUNDA, QUARTA E SEXTA
+19H às 22:30
+235,00
 
-São Paulo - Santo Amaro
-Rua Amador Bueno, 504
-09:15 às 18:15
 
-Início
-31/10/2026
+Excel com VBA
+Terça a quinta 19h as 22:30
+Taboão da Serra
+08/12 a 07/01/2027
+200,00
 
-Fim
-05/12/2026
+
 

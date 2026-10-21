@@ -1,0 +1,3 @@
+xlsm - arquivo excel macro
+vba - visual basic for application
+pasta de trabalho - arquivo
